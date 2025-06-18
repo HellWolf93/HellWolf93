@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 
-# Hi, I'm David Rodriguez Feitó! 🌈
+# Hi, I'm David Rodriguez Feitó!
 
 I'm a passionate **Software Developer** who loves crafting colorful, robust web experiences.
 
